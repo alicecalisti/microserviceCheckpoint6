@@ -1,0 +1,29 @@
+﻿using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Text;
+
+var factory = new ConnectionFactory()
+{
+    HostName = "localhost"
+};
+using var connection = factory.CreateConnection();
+using var channel = connection.CreateModel();
+const string fila = "produto_cadastrado";
+channel.QueueDeclare(queue: fila,
+                     durable: false,
+                     exclusive: false,
+                     autoDelete: false,
+                     arguments: null);
+
+var consumer = new EventingBasicConsumer(channel);
+consumer.Received += (model, args) =>
+{
+    var body = args.Body.ToArray();
+    var mensagem = Encoding.UTF8.GetString(body);
+
+    Console.WriteLine($"Mensagem recebida: {mensagem}...");
+};
+
+channel.BasicConsume(queue: fila,
+                     autoAck: true,
+                     consumer: consumer);

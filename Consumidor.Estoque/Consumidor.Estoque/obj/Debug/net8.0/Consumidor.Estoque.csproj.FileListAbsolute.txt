@@ -1,0 +1,17 @@
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\Consumidor.Estoque.exe
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\Consumidor.Estoque.deps.json
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\Consumidor.Estoque.runtimeconfig.json
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\Consumidor.Estoque.dll
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\Consumidor.Estoque.pdb
+D:\Consumidor.Estoque\Consumidor.Estoque\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.csproj.AssemblyReference.cache
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.AssemblyInfoInputs.cache
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.AssemblyInfo.cs
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.csproj.CoreCompileInputs.cache
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumid.2013833D.Up2Date
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.dll
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\refint\Consumidor.Estoque.dll
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.pdb
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\Consumidor.Estoque.genruntimeconfig.cache
+D:\Consumidor.Estoque\Consumidor.Estoque\obj\Debug\net8.0\ref\Consumidor.Estoque.dll
